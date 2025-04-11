@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm IDE files
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code settings
+.vscode/
+
+# Environment
+venv/
+env/
+.env
+
+# Other
+*.log
+.DS_Store 

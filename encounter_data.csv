@@ -1,0 +1,8 @@
+field,meaning,key/component_from_api_response,sample_value,rule,note
+chart_lock_status,,<encLock>0</encLock>,0,,
+description,,<visitType>Well Visit</visitType>,Well Visit,,
+encounterdate,,<date>2025-02-25</date>,2025-02-25,,
+id,,<encounterId>2365016</encounterId>,2365016,,
+patientid,,<patientId>123008</patientId>,123008,,
+remarks,,<reason>None</reason>,,,
+sourceencounterid,,<ResourceId>132157</ResourceId>,132157,,
