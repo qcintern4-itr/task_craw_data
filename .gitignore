@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.html
 *.png
+
 # PyCharm IDE files
 .idea/
 *.iml
