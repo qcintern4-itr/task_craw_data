@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/1999/XMLSchema" xmlns:xsi="http://www.w3.org/1999/XMLSchema-instance"><SOAP-ENV:Body><return><log><date>2025-04-01</date><time>13:29:26</time><user>mpacheco</user><userId>94368</userId><action>4</action></log><log><date>2025-04-01</date><time>13:26:10</time><user>mpacheco</user><userId>94368</userId><action>0</action></log></return></SOAP-ENV:Body></SOAP-ENV:Envelope>

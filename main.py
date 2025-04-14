@@ -13,7 +13,7 @@ def main():
         
         for patient_id in patient_ids:
             print(f"\nFetching data for patient ID: {patient_id}")
-            patient_data = call_api_with_patient_id(patient_id, use_cache=False)
+            patient_data = call_api_with_patient_id(patient_id, use_cache=True)
             if patient_data:
                 all_patient_data.append(patient_data)
             time.sleep(1) 
@@ -27,4 +27,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
