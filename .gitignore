@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.html
+*.png
 # PyCharm IDE files
 .idea/
 *.iml
