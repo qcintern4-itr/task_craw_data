@@ -1,4 +1,6 @@
 import csv
+import pandas as pd
+from typing import List, Dict, Optional 
 
 def read_last_values(file_path, num_values=1):
     try:
@@ -24,3 +26,20 @@ def read_last_values(file_path, num_values=1):
         print(f"File not found: {file_path}")
     except Exception as e:
         print(f"Error reading file: {str(e)}")
+        
+
+
+def save_to_excel(data: List[Dict], filename: str = "patient_data.xlsx") -> bool:
+    """Save patient data to Excel file."""
+    try:
+        if not data:
+            print("\nNo data to save")
+            return False
+            
+        df = pd.DataFrame(data)
+        df.to_excel(filename, index=False)
+        print(f"\nData saved to {filename}")
+        return True
+    except Exception as e:
+        print(f"\nError saving to Excel: {str(e)}")
+        return False 
