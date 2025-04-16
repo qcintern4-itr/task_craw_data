@@ -71,7 +71,7 @@ The script performs the following transformations:
 - Cache files in respective directories:
   - `container_xml_table2/`
   - `container_xml_table3/`
-  - `container_xml_table6/`
+  - `container_json_table6/`
 
 ## Note
 Format JSON files using: `Shift + Alt + F`

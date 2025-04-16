@@ -42,7 +42,7 @@ def extract_xml_values_table3(xml_text):
     except ET.ParseError:
         return None
 
-def extract_xml_values_table6(json_text):
+def extract_json_values_table6(json_text):
     try:
         response_data = json.loads(json_text)
         labs_data = {}

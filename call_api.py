@@ -12,11 +12,11 @@ from config import (
 from cache import (
     save_xml_response_table2, save_xml_response_table3, 
     load_xml_response_table2, load_xml_response_table3, 
-    save_xml_response_table6, load_xml_response_table6,
+    save_json_response_table6, load_json_response_table6,
 )
 from extract import (
     extract_xml_values_table2, extract_xml_values_table3, 
-    extract_xml_values_table6,
+    extract_json_values_table6,
 )
 
 def call_api_with_patient_id(patient_id, use_cache):
@@ -111,9 +111,9 @@ def call_api_table6(use_cache, patient_data=None):
     headers["Content-Type"] = "application/x-www-form-urlencoded; charset=UTF-8"
     
     if use_cache:
-        cached_response = load_xml_response_table6(patient_data['id'])
+        cached_response = load_json_response_table6(patient_data['id'])
         if cached_response:
-            labs_data = extract_xml_values_table6(cached_response)
+            labs_data = extract_json_values_table6(cached_response)
             return labs_data
         return None
 
@@ -128,8 +128,8 @@ def call_api_table6(use_cache, patient_data=None):
         if response.status_code == 200:
             try:
                 response_data = response.json()
-                save_xml_response_table6(patient_data['id'], json.dumps(response_data))
-                labs_data = extract_xml_values_table6(json.dumps(response_data))
+                save_json_response_table6(patient_data['id'], json.dumps(response_data))
+                labs_data = extract_json_values_table6(json.dumps(response_data))
                 return labs_data
             except ValueError as e:
                 print("Error parsing JSON response:", e)
