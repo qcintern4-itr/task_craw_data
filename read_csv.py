@@ -4,11 +4,8 @@ def read_last_values(file_path, num_values=1):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             csv_reader = csv.reader(file)
-            
-            # Skip header row
             next(csv_reader)
             
-            # Get last value from each row
             values = []
             for i, row in enumerate(csv_reader):
                 if i >= num_values:  
