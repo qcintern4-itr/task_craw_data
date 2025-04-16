@@ -59,7 +59,7 @@ def call_api_with_patient_id(patient_id, use_cache):
                 encounter_data = call_api_with_encounter_id(patient_data['id'], False)
                 if encounter_data and 'createdate' in encounter_data:
                     patient_data['createdate'] = encounter_data['createdate']
-                print(patient_data)
+                # print(patient_data)
             return patient_data
         else:
             print(f"Failed to fetch data for patient {patient_id}: {response.status_code}")
@@ -105,11 +105,7 @@ def call_api_table6(use_cache, patient_data=None):
         "nDoctorId": patient_data['physicianid']
     })
     form_data = FORM_DATA_TABLE6.copy()
-    print("form 11111111111111111111111111111111111111")
-    print(form_data)
     form_data["QuickSearchFilterObj"] = json.dumps(quick_search_filter)
-    print("form 22222222222222222222222222222222222222")
-    print(form_data)
     
     headers = API_HEADERS.copy()
     headers["Content-Type"] = "application/x-www-form-urlencoded; charset=UTF-8"
