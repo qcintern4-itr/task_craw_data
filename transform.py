@@ -13,4 +13,4 @@ def transform_value(field, value):
             return date_obj.strftime("%d/%m/%Y")
         except:
             return value
-    return value 
+    return value

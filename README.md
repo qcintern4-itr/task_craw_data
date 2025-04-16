@@ -50,3 +50,6 @@ The script performs the following transformations:
 - Date format: YYYY-MM-DD → DD/MM/YYYY
 - Chart lock status: 1 → "Locked", 0 → "Unlocked"
 - Unbilled status: 1 → "FALSE", 0 → "TRUE"
+
+## Note
+Format file *.json use: `Shift + Alt + F`

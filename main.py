@@ -21,7 +21,7 @@ def main():
         # Create DataFrame and save to Excel
         if all_patient_data:
             df = pd.DataFrame(all_patient_data)
-            excel_filename = f"patient_data.xlsx"
+            excel_filename = f"patient_data_temp.xlsx"
             df.to_excel(excel_filename, index=False)
             print(f"\nData saved to {excel_filename}")
 

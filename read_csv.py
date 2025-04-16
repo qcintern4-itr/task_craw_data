@@ -1,6 +1,6 @@
 import csv
 
-def read_last_values(file_path, num_values=2):
+def read_last_values(file_path, num_values=1):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             csv_reader = csv.reader(file)
