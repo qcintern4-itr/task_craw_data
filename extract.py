@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import json
 from typing import Dict, Optional, Union
 from transform import transform_value
-from config import FIELD_MAPPINGS
+from config import ENCOUNTER_FIELD_MAPPINGS
 
 def _parse_xml(xml_text: str) -> Optional[ET.Element]:
     """Parse XML text and return root element."""
@@ -20,24 +20,25 @@ def _parse_json(json_text: str) -> Optional[Dict]:
         print(f"JSON parsing error: {str(e)}")
         return None
 
-def extract_xml_values_table2(xml_text: str) -> Optional[Dict]:
-    """Extract values from TABLE2 XML response."""
-    root = _parse_xml(xml_text)
-    if not root:
+def extract_xml_values_detail_encounter(xml_text: str) -> Optional[Dict]:
+    """Extract values from XML response for TABLE2 (DETAIL_ENCOUNTER)."""
+    try:
+        root = ET.fromstring(xml_text)
+        patient_data = {}
+       
+        for field, xml_field in ENCOUNTER_FIELD_MAPPINGS.items():
+            element = root.find(f".//{xml_field}")
+            
+            value = element.text if element is not None else ""
+            patient_data[field] = transform_value(field, value)
+        
+        return patient_data
+    except ET.ParseError as e:
+        print(f"Error parsing XML for DETAIL_ENCOUNTER: {str(e)}")
         return None
 
-    data = {}
-    for field, xml_tag in FIELD_MAPPINGS.items():
-        if not xml_tag: 
-            data[field] = ""
-            continue
-        element = root.find(f'.//{xml_tag}')
-        value = element.text if element is not None else ""
-        data[field] = transform_value(field, value)
-    return data
-
-def extract_encounter_id_from_table2(xml_text: str) -> Optional[str]:
-    """Extract encounter ID from TABLE2 XML response."""
+def extract_encounter_id_from_detail_encounter(xml_text: str) -> Optional[str]:
+    """Extract encounter ID from DETAIL_ENCOUNTER XML response."""
     root = _parse_xml(xml_text)
     if not root:
         return None
@@ -45,21 +46,23 @@ def extract_encounter_id_from_table2(xml_text: str) -> Optional[str]:
     encounter_element = root.find('.//encounterID')
     return encounter_element.text if encounter_element is not None else None
 
-def extract_xml_values_table3(xml_text: str) -> Optional[Dict]:
-    """Extract values from TABLE3 XML response."""
-    root = _parse_xml(xml_text)
-    if not root:
+def extract_xml_values_detail_log(xml_text: str) -> Optional[Dict]:
+    """Extract values from XML response for DETAIL_LOG."""
+    try:
+        root = ET.fromstring(xml_text)
+        log_data = {}
+        
+        for field, xml_field in ENCOUNTER_FIELD_MAPPINGS.items():
+            element = root.find(f".//{xml_field}")
+            value = element.text if element is not None else ""
+            log_data[field] = transform_value(field, value)
+        
+        return log_data
+    except ET.ParseError as e:
+        print(f"Error parsing XML for DETAIL_LOG: {str(e)}")
         return None
 
-    data = {}
-    first_log = root.find('.//log')
-    if first_log is not None:
-        date_element = first_log.find('.//date')
-        if date_element is not None:
-            data['createdate'] = transform_value('createdate', date_element.text)
-    return data
-
-def extract_json_values_table6(json_text: str) -> Optional[Dict]:
+def extract_json_values_detail_lab(json_text: str) -> Optional[Dict]:
     """Extract values from TABLE6 JSON response."""
     try:
         if isinstance(json_text, str):
@@ -82,4 +85,20 @@ def extract_json_values_table6(json_text: str) -> Optional[Dict]:
     except Exception as e:
         print(f"Error extracting JSON values: {str(e)}")
         return None
-
+    
+def extract_xml_values_search_patient(xml_text: str) -> Optional[Dict]:
+    """Extract values from XML response for SEARCH_PATIENT."""
+    try:
+        root = ET.fromstring(xml_text)
+        patient_data = {}
+        
+        for field, xml_field in ENCOUNTER_FIELD_MAPPINGS.items():
+            element = root.find(f".//{xml_field}")
+            if element is not None:
+                patient_data[field] = element.text
+                print(f"{field}: {element.text}")
+        
+        return patient_data if patient_data else None
+    except ET.ParseError as e:
+        print(f"Error parsing XML for SEARCH_PATIENT: {str(e)}")
+        return None

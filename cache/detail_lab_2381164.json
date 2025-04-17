@@ -1,16 +1,26 @@
 {
   "SelectedLabCompanyId": 8,
-  "refFromP2PNPI": "1104000231",
+  "refFromP2PNPI": "1598748592",
   "SelectedDICompanyId": 8,
   "specialityList": [
-    { "deleteFlag": 0, "Speciality": "Accupunture", "Id": 242, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Accupunture",
+      "Id": 242,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Addiction Psychiatry",
       "Id": 171,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Admission", "Id": 191, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Admission",
+      "Id": 191,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Adult and Pediatric Allergy",
@@ -23,7 +33,12 @@
       "Id": 167,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Allergy", "Id": 213, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Allergy",
+      "Id": 213,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Allergy & Immunology",
@@ -36,8 +51,18 @@
       "Id": 122,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Arthralgias", "Id": 222, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Audiology", "Id": 203, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Arthralgias",
+      "Id": 222,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Audiology",
+      "Id": 203,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Bariatric Surgery",
@@ -74,29 +99,54 @@
       "Id": 248,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Burn Unit", "Id": 197, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Burn Unit",
+      "Id": 197,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Cancer Center",
       "Id": 216,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Cardiology", "Id": 132, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Cardiology",
+      "Id": 132,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Cardiovascular",
       "Id": 232,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Case Manager", "Id": 184, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Child", "Id": 172, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Case Manager",
+      "Id": 184,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Child",
+      "Id": 172,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Child and Adolescent psychiatry",
       "Id": 230,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Chirpractic", "Id": 210, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Chirpractic",
+      "Id": 210,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Colon & Rectal Surgery",
@@ -109,8 +159,18 @@
       "Id": 233,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Dental", "Id": 185, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Dermatology", "Id": 125, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Dental",
+      "Id": 185,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Dermatology",
+      "Id": 125,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Developmental Pediatrics",
@@ -147,15 +207,30 @@
       "Id": 133,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Endovascular", "Id": 259, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Eye Care", "Id": 235, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Endovascular",
+      "Id": 259,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Eye Care",
+      "Id": 235,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Family Medicine",
       "Id": 129,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Foot Surgery", "Id": 251, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Foot Surgery",
+      "Id": 251,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Forensic Psychiatry",
@@ -186,31 +261,66 @@
       "Id": 174,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "GYN/Oncology", "Id": 244, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Gynecology", "Id": 204, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "GYN/Oncology",
+      "Id": 244,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Gynecology",
+      "Id": 204,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Gynecology Obstetrics",
       "Id": 145,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Hand Surgery", "Id": 198, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hand Surgery",
+      "Id": 198,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Head and neck surgeon, Surgical Oncology",
       "Id": 236,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Hematology", "Id": 135, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hematology",
+      "Id": 135,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Hematology/Oncology",
       "Id": 249,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Hepatic", "Id": 221, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "HEPATOLOGY", "Id": 256, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Home Health", "Id": 201, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hepatic",
+      "Id": 221,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "HEPATOLOGY",
+      "Id": 256,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Home Health",
+      "Id": 201,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Hospice and Palliative Medicine",
@@ -277,29 +387,54 @@
       "Id": 153,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Nephrology", "Id": 138, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Nephrology",
+      "Id": 138,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "neuro oncology",
       "Id": 226,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Neurology", "Id": 170, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Neurology",
+      "Id": 170,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "NEUROPSYCHOLOGY",
       "Id": 262,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Neurosurgery", "Id": 143, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Neurosurgery",
+      "Id": 143,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Nuclear Medicine",
       "Id": 144,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Nutrition", "Id": 186, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "OB/GYN", "Id": 252, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Nutrition",
+      "Id": 186,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "OB/GYN",
+      "Id": 252,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Occupational Medicine",
@@ -318,8 +453,18 @@
       "Id": 261,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Ocularist", "Id": 268, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "oncology", "Id": 209, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Ocularist",
+      "Id": 268,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "oncology",
+      "Id": 209,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Oncology Gynecologic",
@@ -338,8 +483,18 @@
       "Id": 246,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Optometrist", "Id": 208, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Orthopedic", "Id": 223, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Optometrist",
+      "Id": 208,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Orthopedic",
+      "Id": 223,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Orthopedic Spine",
@@ -496,7 +651,12 @@
       "Id": 183,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Pediatrics", "Id": 152, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatrics",
+      "Id": 152,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Physical Medicine",
@@ -539,25 +699,60 @@
       "Id": 207,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Podiatry", "Id": 188, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Podiatry",
+      "Id": 188,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Pre-Authorization",
       "Id": 266,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Prosthetic", "Id": 240, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Psychiatry", "Id": 169, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Psychology", "Id": 247, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Pulmonology", "Id": 139, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Prosthetic",
+      "Id": 240,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Psychiatry",
+      "Id": 169,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Psychology",
+      "Id": 247,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pulmonology",
+      "Id": 139,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Radiation Oncology",
       "Id": 176,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Radiology", "Id": 199, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "REHAB", "Id": 234, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Radiology",
+      "Id": 199,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "REHAB",
+      "Id": 234,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Reproductive Endocrinology/Infertility",
@@ -570,7 +765,12 @@
       "Id": 218,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Rheumatology", "Id": 140, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Rheumatology",
+      "Id": 140,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Sleep Medicine",
@@ -613,9 +813,24 @@
       "Id": 127,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Surgeon", "Id": 265, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "SURGEON ENT", "Id": 255, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Surgery", "Id": 178, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Surgeon",
+      "Id": 265,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "SURGEON ENT",
+      "Id": 255,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Surgery",
+      "Id": 178,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Thoracic Surgery",
@@ -628,9 +843,24 @@
       "Id": 250,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Uro/GYN", "Id": 243, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Uro/Oncology", "Id": 253, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Urology", "Id": 182, "Code": "099" },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Uro/GYN",
+      "Id": 243,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Uro/Oncology",
+      "Id": 253,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Urology",
+      "Id": 182,
+      "Code": "099"
+    },
     {
       "deleteFlag": 0,
       "Speciality": "Vascular and Interventional Radiology",
@@ -649,11 +879,23 @@
       "Id": 179,
       "Code": "099"
     },
-    { "deleteFlag": 0, "Speciality": "Vein", "Id": 254, "Code": "099" },
-    { "deleteFlag": 0, "Speciality": "Wound Care", "Id": 215, "Code": "099" }
+    {
+      "deleteFlag": 0,
+      "Speciality": "Vein",
+      "Id": 254,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Wound Care",
+      "Id": 215,
+      "Code": "099"
+    }
   ],
   "sProviderName": "optimus,user ",
-  "itemKeysForQSDirective": { "nIsLabConfigAssmtMandatory": "0" },
+  "itemKeysForQSDirective": {
+    "nIsLabConfigAssmtMandatory": "0"
+  },
   "nProviderId": 44972,
   "userProfile": {
     "nSelectSingleAssessment": "0",
@@ -672,7 +914,7 @@
     "To Facility Name": "N"
   },
   "QSFilterData": {
-    "nEncounterId": 2309997,
+    "nEncounterId": 2381164,
     "SelectedLabCompanyId": 8,
     "SelectedDICompanyId": 8,
     "DefaultAssingReferralToName": "",
@@ -691,9 +933,9 @@
     "sBillToPhyForLabs": "0",
     "ImmInjOrders": "1",
     "DIOrders": "1",
-    "nPatientId": 92999,
+    "nPatientId": 132216,
     "sBillToPhyForFutureOrders": "1",
-    "sFutureDate": "04/15/2025",
+    "sFutureDate": "04/16/2025",
     "RxOrders": "1",
     "LabOrders": "1",
     "FavoriteOrders": "0",
@@ -1163,29 +1405,43 @@
     "prevDx": [
       {
         "Specify": "",
-        "itemId": 370085,
+        "itemId": 370159,
         "onsetdate": "",
-        "overdue": 0,
-        "name": "Dietary counseling and surveillance",
+        "overdue": 2,
+        "name": "Hypothyroidism, unspecified",
         "favoriteofcuid": false,
         "risk": "",
         "snowMedCode": "",
         "encdatetime": "",
-        "value": "Z71.3",
+        "value": "E03.9",
         "Notes": "",
         "icdversion": 10
       },
       {
         "Specify": "",
-        "itemId": 445229,
+        "itemId": 383700,
         "onsetdate": "",
-        "overdue": 0,
-        "name": "Exercise counseling",
+        "overdue": 2,
+        "name": "Ankylosing spondylitis of unspecified sites in spine",
         "favoriteofcuid": false,
         "risk": "",
         "snowMedCode": "",
         "encdatetime": "",
-        "value": "Z71.82",
+        "value": "M45.9",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 391767,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Dizziness and giddiness",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R42",
         "Notes": "",
         "icdversion": 10
       },
@@ -1205,449 +1461,15 @@
       },
       {
         "Specify": "",
-        "itemId": 370173,
+        "itemId": 373104,
         "onsetdate": "",
         "overdue": 2,
-        "name": "Functional dyspepsia",
+        "name": "Nontoxic goiter, unspecified",
         "favoriteofcuid": false,
         "risk": "",
         "snowMedCode": "",
         "encdatetime": "",
-        "value": "K30",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 382604,
-        "onsetdate": "",
-        "overdue": 2,
-        "name": "Bilateral primary osteoarthritis of hip",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M16.0",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 437704,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Body mass index (BMI) 31.0-31.9, adult",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z68.31",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370087,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Vitamin D deficiency, unspecified",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "E55.9",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370080,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Encounter for immunization",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z23",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370089,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Body mass index (BMI) 32.0-32.9, adult",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z68.32",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 438822,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Encounter for screening for infections with a predominantly sexual mode of transmission",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z11.3",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 379485,
-        "onsetdate": "",
-        "overdue": 2,
-        "name": "Vasomotor rhinitis",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "J30.0",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 438777,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Encounter for gynecological examination (general) (routine) with abnormal findings",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z01.411",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370083,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Body mass index (BMI) 29.0-29.9, adult",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z68.29",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370088,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Encounter for screening for malignant neoplasm of cervix",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z12.4",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 372620,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Leiomyoma of uterus, unspecified",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "D25.9",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 438787,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Encounter for pre-employment examination",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z02.1",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 387910,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Acute vaginitis",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "N76.0",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 439729,
-        "onsetdate": "",
-        "overdue": 2,
-        "name": "Acquired absence of both cervix and uterus",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z90.710",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 799821,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Low back pain, unspecified",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M54.50",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 388004,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Other specified noninflammatory disorders of vagina",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "N89.8",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 384042,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Dorsalgia, unspecified",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M54.9",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 385095,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Medial epicondylitis, right elbow",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M77.01",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370106,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Body mass index (BMI) 30.0-30.9, adult",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z68.30",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 371224,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Papillomavirus as the cause of diseases classified elsewhere",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "B97.7",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 383299,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Pain in unspecified joint",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M25.50",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 383308,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Pain in right hip",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M25.551",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 383974,
-        "onsetdate": "",
-        "overdue": 2,
-        "name": "Intervertebral disc disorders with radiculopathy, lumbosacral region",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M51.17",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370090,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Body mass index (BMI) 28.0-28.9, adult",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z68.28",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370144,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Encounter for screening mammogram for malignant neoplasm of breast",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z12.31",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 370172,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Encounter for screening for respiratory tuberculosis",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "Z11.1",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 382502,
-        "onsetdate": "",
-        "overdue": 2,
-        "name": "Polyarthritis, unspecified",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "M13.0",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 391488,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Pain in throat",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "R07.0",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 391529,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Generalized abdominal pain",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "R10.84",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 391559,
-        "onsetdate": "",
-        "overdue": 0,
-        "name": "Intra-abdominal and pelvic swelling, mass and lump, unspecified site",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "R19.00",
-        "Notes": "",
-        "icdversion": 10
-      },
-      {
-        "Specify": "",
-        "itemId": 445606,
-        "onsetdate": "",
-        "overdue": 2,
-        "name": "Other specified depressive episodes",
-        "favoriteofcuid": false,
-        "risk": "",
-        "snowMedCode": "",
-        "encdatetime": "",
-        "value": "F32.89",
+        "value": "E04.9",
         "Notes": "",
         "icdversion": 10
       },
@@ -1681,15 +1503,43 @@
       },
       {
         "Specify": "",
-        "itemId": 438850,
+        "itemId": 448145,
         "onsetdate": "",
         "overdue": 0,
-        "name": "Encounter for screening for other metabolic disorders",
+        "name": "Body mass index (BMI) 19.9 or less, adult",
         "favoriteofcuid": false,
         "risk": "",
         "snowMedCode": "",
         "encdatetime": "",
-        "value": "Z13.228",
+        "value": "Z68.1",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 745213,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Headache, unspecified",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R51.9",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 745214,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Elevation of levels of liver transaminase levels",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R74.01",
         "Notes": "",
         "icdversion": 10
       },
@@ -1709,224 +1559,172 @@
       },
       {
         "Specify": "",
-        "itemId": 438955,
+        "itemId": 370169,
         "onsetdate": "",
         "overdue": 0,
-        "name": "Immunization not carried out because of patient refusal",
+        "name": "Body mass index (BMI) 19 or less, adult",
         "favoriteofcuid": false,
         "risk": "",
         "snowMedCode": "",
         "encdatetime": "",
-        "value": "Z28.21",
+        "value": "Z68.1",
         "Notes": "",
         "icdversion": 10
       },
       {
         "Specify": "",
-        "itemId": 439355,
+        "itemId": 438822,
         "onsetdate": "",
         "overdue": 0,
-        "name": "Body mass index (BMI) 36.0-36.9, adult",
+        "name": "Encounter for screening for infections with a predominantly sexual mode of transmission",
         "favoriteofcuid": false,
         "risk": "",
         "snowMedCode": "",
         "encdatetime": "",
-        "value": "Z68.36",
+        "value": "Z11.3",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 391590,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Rash and other nonspecific skin eruption",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R21",
         "Notes": "",
         "icdversion": 10
       }
     ],
-    "Dx": [{ "dxItemCode": "N/A", "dxItemId": 0, "dxItemName": "Other" }],
+    "Dx": [
+      {
+        "dxItemCode": "N/A",
+        "dxItemId": 0,
+        "dxItemName": "Other"
+      }
+    ],
     "probListDx": [
-      {
-        "notes": "",
-        "snowMedCode": "",
-        "problemtype": "",
-        "userid": 94390,
-        "icdversion": 10,
-        "itemid": 370089,
-        "AddedDate": "05/27/2021",
-        "overdue": 0,
-        "onsetdate": "",
-        "logdate": "05/28/2021",
-        "inactiveFlag": 0,
-        "PrimServiceLoc": 19,
-        "synonymid": "",
-        "severity": 0,
-        "wustatus": "confirmed",
-        "itemname": "Body mass index (BMI) 32.0-32.9, adult",
-        "specify": "",
-        "encounterid": 1626894,
-        "condition": "",
-        "itemcode": "Z68.32",
-        "risk": "",
-        "hcc_com_flag": false,
-        "SlNo": 281446,
-        "username": "EDIGA, SUDHA",
-        "resolvedon": ""
-      },
-      {
-        "notes": "",
-        "snowMedCode": "",
-        "problemtype": "",
-        "userid": 113199,
-        "icdversion": 10,
-        "itemid": 370173,
-        "AddedDate": "08/31/2022",
-        "overdue": 2,
-        "onsetdate": "",
-        "logdate": "05/17/2023",
-        "inactiveFlag": 0,
-        "PrimServiceLoc": 23,
-        "synonymid": "",
-        "severity": 2,
-        "wustatus": "confirmed",
-        "itemname": "Functional dyspepsia",
-        "specify": "",
-        "encounterid": 1835392,
-        "condition": "",
-        "itemcode": "K30",
-        "risk": "",
-        "hcc_com_flag": false,
-        "SlNo": 319308,
-        "username": "N, Prasanna",
-        "resolvedon": ""
-      },
-      {
-        "notes": "",
-        "snowMedCode": "",
-        "problemtype": "",
-        "userid": 113199,
-        "icdversion": 10,
-        "itemid": 382604,
-        "AddedDate": "08/31/2022",
-        "overdue": 2,
-        "onsetdate": "",
-        "logdate": "05/17/2023",
-        "inactiveFlag": 0,
-        "PrimServiceLoc": 23,
-        "synonymid": "",
-        "severity": 2,
-        "wustatus": "confirmed",
-        "itemname": "Bilateral primary osteoarthritis of hip",
-        "specify": "",
-        "encounterid": 1835392,
-        "condition": "",
-        "itemcode": "M16.0",
-        "risk": "",
-        "hcc_com_flag": false,
-        "SlNo": 319310,
-        "username": "N, Prasanna",
-        "resolvedon": ""
-      },
-      {
-        "notes": "",
-        "snowMedCode": "",
-        "problemtype": "",
-        "userid": 68840,
-        "icdversion": 10,
-        "itemid": 439729,
-        "AddedDate": "05/28/2024",
-        "overdue": 2,
-        "onsetdate": "",
-        "logdate": "05/28/2024",
-        "inactiveFlag": 0,
-        "PrimServiceLoc": 19,
-        "synonymid": "",
-        "severity": 2,
-        "wustatus": "confirmed",
-        "itemname": "Acquired absence of both cervix and uterus",
-        "specify": "",
-        "encounterid": 2259902,
-        "condition": "",
-        "itemcode": "Z90.710",
-        "risk": "",
-        "hcc_com_flag": false,
-        "SlNo": 389602,
-        "username": "leonardo, marisa",
-        "resolvedon": ""
-      },
-      {
-        "notes": "",
-        "snowMedCode": "",
-        "problemtype": "",
-        "userid": 68840,
-        "icdversion": 10,
-        "itemid": 383974,
-        "AddedDate": "10/01/2024",
-        "overdue": 2,
-        "onsetdate": "",
-        "logdate": "10/01/2024",
-        "inactiveFlag": 0,
-        "PrimServiceLoc": 19,
-        "synonymid": "",
-        "severity": 2,
-        "wustatus": "confirmed",
-        "itemname": "Intervertebral disc disorders with radiculopathy, lumbosacral region",
-        "specify": "",
-        "encounterid": 2304310,
-        "condition": "",
-        "itemcode": "M51.17",
-        "risk": "",
-        "hcc_com_flag": false,
-        "SlNo": 397369,
-        "username": "leonardo, marisa",
-        "resolvedon": ""
-      },
       {
         "notes": "",
         "snowMedCode": "",
         "problemtype": "",
         "userid": 132204,
         "icdversion": 10,
-        "itemid": 382502,
-        "AddedDate": "01/10/2025",
+        "itemid": 383700,
+        "AddedDate": "03/19/2024",
         "overdue": 2,
         "onsetdate": "",
-        "logdate": "01/10/2025",
+        "logdate": "03/19/2024",
         "inactiveFlag": 0,
         "PrimServiceLoc": 21,
         "synonymid": "",
         "severity": 2,
         "wustatus": "confirmed",
-        "itemname": "Polyarthritis, unspecified",
+        "itemname": "Ankylosing spondylitis of unspecified sites in spine",
         "specify": "",
-        "encounterid": 2345093,
+        "encounterid": 2227903,
         "condition": "",
-        "itemcode": "M13.0",
+        "itemcode": "M45.9",
         "risk": "",
         "hcc_com_flag": false,
-        "SlNo": 403343,
+        "SlNo": 385192,
         "username": "CHIN, SHIRNETTE",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 94379,
+        "icdversion": 10,
+        "itemid": 370159,
+        "AddedDate": "03/20/2024",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "03/20/2024",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 24,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Hypothyroidism, unspecified",
+        "specify": "",
+        "encounterid": 2227903,
+        "condition": "",
+        "itemcode": "E03.9",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 385197,
+        "username": "Abrakhaimova, Chana",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 94379,
+        "icdversion": 10,
+        "itemid": 373104,
+        "AddedDate": "02/24/2025",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "02/24/2025",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 24,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Nontoxic goiter, unspecified",
+        "specify": "",
+        "encounterid": 2363552,
+        "condition": "",
+        "itemcode": "E04.9",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 405852,
+        "username": "Abrakhaimova, Chana",
         "resolvedon": ""
       }
     ]
   },
   "patientInfo": {
     "reason": "",
-    "lastName": "Acosta De Vargas",
-    "LabEnabled": "1",
+    "lastName": "ALBRIGHT",
+    "LabEnabled": "",
     "Eligibility": "",
-    "PatientNamewithsuffix": "Acosta De Vargas, Alfania",
+    "PatientNamewithsuffix": "ALBRIGHT, GRACE",
     "Sex": "F",
-    "PatientName": "Acosta De Vargas, Alfania ",
+    "PatientName": "ALBRIGHT, GRACE ",
     "suffix": "",
-    "Name": "Acosta De Vargas, Alfania ",
-    "firstName": "Alfania",
+    "Name": "ALBRIGHT, GRACE ",
+    "firstName": "GRACE",
     "Vfc": "",
     "middleInitial": "",
-    "Dob": "08/19/1982",
-    "Phone": "347-781-8624",
-    "Id": "92999",
-    "ControlNo": "92999",
+    "Dob": "01/26/1995",
+    "Phone": "443-853-0150",
+    "Id": "132216",
+    "ControlNo": "132216",
     "state": "NY",
     "WebEnabled": "true",
-    "Age": "42 Y",
+    "Age": "30 Y",
     "status": "success"
   },
   "referralPriority": [
-    { "Id": "0", "Name": "Routine" },
-    { "Id": "1", "Name": "Urgent" },
-    { "Id": "2", "Name": "Stat" }
+    {
+      "Id": "0",
+      "Name": "Routine"
+    },
+    {
+      "Id": "1",
+      "Name": "Urgent"
+    },
+    {
+      "Id": "2",
+      "Name": "Stat"
+    }
   ]
 }

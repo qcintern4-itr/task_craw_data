@@ -5,10 +5,10 @@ A robust tool for automating medical records data processing and web interaction
 ## Features
 
 - Automated data crawling from eClinicalWorks
-- Multiple API endpoint support (TABLE2, TABLE3, TABLE6)
+- Multiple API endpoint support (DETAIL_ENCOUNTER, DETAIL_LOG, DELETE_ENCOUNTER, DETAIL_LAB, PATIENT_SEARCH)
 - Intelligent caching system
 - Data transformation and formatting
-- Comprehensive error handling and logging
+- Comprehensive error handling
 - Excel output generation
 
 ## Project Structure
@@ -21,9 +21,10 @@ A robust tool for automating medical records data processing and web interaction
 ├── extract.py           # Data extraction utilities
 ├── transform.py         # Data transformation functions
 ├── cache.py            # Caching system
-├── read_csv.py         # CSV file handling
-├── patient_data.xlsx   # Output Excel file
-└── container_*/        # Cache directories
+├── implement_file.py    # File handling and output generation
+├── result/             # Output directory
+│   └── output_file_YYYYMMDD/  # Output files with timestamp
+└── cache/              # Cache directories
 ```
 
 ## Installation
@@ -32,11 +33,19 @@ A robust tool for automating medical records data processing and web interaction
 
 ## Usage
 
-1. Place your CSV file in the project directory
-2. Run the script:
+1. Place your CSV file containing patient IDs in the project directory
+2. Run the script with optional parameters:
 ```bash
-python main.py
+python main.py -f input.csv -n 10 -o output.xlsx -c true --from-date 01/01/2024 --to-date 12/31/2024
 ```
+
+### Command Line Arguments
+- `-f, --file`: Input CSV file path (required)
+- `-n, --number`: Number of records to process (optional)
+- `-o, --output`: Output Excel file name (optional)
+- `-c, --cache`: Use cached data (true/false) (optional)
+- `--from-date`: Start date for data retrieval (optional)
+- `--to-date`: End date for data retrieval (optional)
 
 ## Configuration
 
@@ -45,20 +54,24 @@ python main.py
 - Common request parameters
 - Headers configuration
 - Field mappings
+- Form data templates
 
 ### Cache Configuration
 Cache files are organized in separate directories:
-- `container_xml_table2/`: Patient encounter data
-- `container_xml_table3/`: Encounter logs
-- `container_json_table6/`: Lab data
+cache
+├── detail_encounter_{id}      # Patient encounter data
+├── detail_log_{id}            # Encounter logs
+├── detail_lab_{id}            # Lab data
 
 
 ## Data Processing
 
 ### API Endpoints
-1. TABLE2: Patient encounter data
-2. TABLE3: Encounter logs
-3. TABLE6: Lab data
+1. DETAIL_ENCOUNTER: Patient encounter data
+2. DETAIL_LOG: Encounter logs
+3. DELETE_ENCOUNTER: Encounter deletion
+4. DETAIL_LAB: Lab data
+5. PATIENT_SEARCH: Patient search by account number
 
 ### Data Transformation
 - Date formats: YYYY-MM-DD → DD/MM/YYYY
@@ -68,19 +81,10 @@ Cache files are organized in separate directories:
 - ICD codes: Combined into comma-separated string
 - NPI: Converted to string format
 
-## Error Handling
-
-The system includes comprehensive error handling:
-- API request failures
-- Data parsing errors
-- File I/O issues
-- Cache management
-- Rate limiting
-
 ## Output
 
 ### Data Files
-- Excel file: `patient_data.xlsx`
+- Excel file: `result/output_file_YYYYMMDD/output.xlsx`
 - Cache files in respective directories
 
 ## Note

@@ -1,0 +1,2139 @@
+{
+  "SelectedLabCompanyId": 8,
+  "refFromP2PNPI": "1598748592",
+  "SelectedDICompanyId": 8,
+  "specialityList": [
+    {
+      "deleteFlag": 0,
+      "Speciality": "Accupunture",
+      "Id": 242,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Addiction Psychiatry",
+      "Id": 171,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Admission",
+      "Id": 191,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Adult and Pediatric Allergy",
+      "Id": 194,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Aerospace Medicine",
+      "Id": 167,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Allergy",
+      "Id": 213,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Allergy & Immunology",
+      "Id": 121,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Anesthesiology",
+      "Id": 122,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Arthralgias",
+      "Id": 222,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Audiology",
+      "Id": 203,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Bariatric Surgery",
+      "Id": 206,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "BEHAVIORAL HEALTH",
+      "Id": 205,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Breast Cancer Center",
+      "Id": 212,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Breast Surgeon",
+      "Id": 211,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Breast Surgery",
+      "Id": 195,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Breast Surgical Oncology",
+      "Id": 248,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Burn Unit",
+      "Id": 197,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Cancer Center",
+      "Id": 216,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Cardiology",
+      "Id": 132,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Cardiovascular",
+      "Id": 232,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Case Manager",
+      "Id": 184,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Child",
+      "Id": 172,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Child and Adolescent psychiatry",
+      "Id": 230,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Chirpractic",
+      "Id": 210,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Colon & Rectal Surgery",
+      "Id": 124,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Cornea Specialist",
+      "Id": 233,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Dental",
+      "Id": 185,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Dermatology",
+      "Id": 125,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Developmental Pediatrics",
+      "Id": 267,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Diabetes Educator",
+      "Id": 190,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Diagnostic Radiology",
+      "Id": 175,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Early Intervention",
+      "Id": 193,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Emergency Department",
+      "Id": 224,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Endocrinology",
+      "Id": 133,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Endovascular",
+      "Id": 259,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Eye Care",
+      "Id": 235,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Family Medicine",
+      "Id": 129,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Foot Surgery",
+      "Id": 251,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Forensic Psychiatry",
+      "Id": 173,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Gastroenterology",
+      "Id": 134,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Genetic Medicine",
+      "Id": 245,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Geriatric Medicine",
+      "Id": 130,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Geriatric Psychiatry",
+      "Id": 174,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "GYN/Oncology",
+      "Id": 244,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Gynecology",
+      "Id": 204,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Gynecology Obstetrics",
+      "Id": 145,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hand Surgery",
+      "Id": 198,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Head and neck surgeon, Surgical Oncology",
+      "Id": 236,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hematology",
+      "Id": 135,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hematology/Oncology",
+      "Id": 249,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hepatic",
+      "Id": 221,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "HEPATOLOGY",
+      "Id": 256,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Home Health",
+      "Id": 201,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hospice and Palliative Medicine",
+      "Id": 123,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Hyperbaric Medicine",
+      "Id": 128,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Infectious Disease",
+      "Id": 136,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Internal Medicine",
+      "Id": 131,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Interventional Radiology",
+      "Id": 225,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Lead Poisoning Specialist",
+      "Id": 270,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "maxilofacial surgeon",
+      "Id": 227,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Medical Genetics",
+      "Id": 142,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Medical Oncology",
+      "Id": 137,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Medical Toxicology",
+      "Id": 126,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Neonatal-Perinatal Medicine",
+      "Id": 153,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Nephrology",
+      "Id": 138,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "neuro oncology",
+      "Id": 226,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Neurology",
+      "Id": 170,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "NEUROPSYCHOLOGY",
+      "Id": 262,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Neurosurgery",
+      "Id": 143,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Nuclear Medicine",
+      "Id": 144,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Nutrition",
+      "Id": 186,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "OB/GYN",
+      "Id": 252,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Occupational Medicine",
+      "Id": 168,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Occupational Therapy",
+      "Id": 260,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Occupational Therapy/ Physical Therapy",
+      "Id": 261,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Ocularist",
+      "Id": 268,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "oncology",
+      "Id": 209,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Oncology Gynecologic",
+      "Id": 146,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Ophthalmology",
+      "Id": 148,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Ophthalmology Surgery",
+      "Id": 246,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Optometrist",
+      "Id": 208,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Orthopedic",
+      "Id": 223,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Orthopedic Spine",
+      "Id": 269,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Orthopedic Spine Specialist",
+      "Id": 228,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Orthopedic Surgery",
+      "Id": 149,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Orthotist Prosthetist",
+      "Id": 241,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Ortyhopedic Surgeon",
+      "Id": 189,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Otolaryngology",
+      "Id": 150,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pain Management",
+      "Id": 258,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pain Management And Physical Therapy",
+      "Id": 263,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pain Medicine",
+      "Id": 163,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Cardiology",
+      "Id": 154,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Endocrinology",
+      "Id": 155,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Gastroenterology",
+      "Id": 156,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Gastroenterology, Hepatology",
+      "Id": 214,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Hematology-Oncology",
+      "Id": 157,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Infectious Diseases",
+      "Id": 158,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Nephrology",
+      "Id": 159,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Neurology",
+      "Id": 192,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Opthamology",
+      "Id": 202,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Orthopedics",
+      "Id": 196,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Otolaryngology",
+      "Id": 151,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Psychiatry",
+      "Id": 229,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Pulmonology",
+      "Id": 160,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Rehabilitation Medicine",
+      "Id": 164,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Rheumatology",
+      "Id": 161,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Surgery",
+      "Id": 180,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatric Urology",
+      "Id": 183,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pediatrics",
+      "Id": 152,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Physical Medicine",
+      "Id": 162,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Physical Medicine and Rehabilitation",
+      "Id": 237,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Physical Therapy",
+      "Id": 231,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "PHYSICAL THERAPY AND PAIN MANAGMENT",
+      "Id": 200,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Physical Therapy-Occupational Therapy- Sports Rehab",
+      "Id": 257,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Plastic Surgery",
+      "Id": 166,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Podiatric Medicine",
+      "Id": 207,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Podiatry",
+      "Id": 188,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pre-Authorization",
+      "Id": 266,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Prosthetic",
+      "Id": 240,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Psychiatry",
+      "Id": 169,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Psychology",
+      "Id": 247,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Pulmonology",
+      "Id": 139,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Radiation Oncology",
+      "Id": 176,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Radiology",
+      "Id": 199,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "REHAB",
+      "Id": 234,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Reproductive Endocrinology/Infertility",
+      "Id": 147,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Retina Specialist",
+      "Id": 218,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Rheumatology",
+      "Id": 140,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Sleep Medicine",
+      "Id": 141,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Smoking Cessation Counseling",
+      "Id": 187,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Social Worker",
+      "Id": 219,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Speech Therapy",
+      "Id": 220,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Spinal Cord Injury Medicine",
+      "Id": 165,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Spinal Surgeon",
+      "Id": 264,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Sports Medicine",
+      "Id": 127,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Surgeon",
+      "Id": 265,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "SURGEON ENT",
+      "Id": 255,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Surgery",
+      "Id": 178,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Thoracic Surgery",
+      "Id": 181,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Transplant Specialist",
+      "Id": 250,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Uro/GYN",
+      "Id": 243,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Uro/Oncology",
+      "Id": 253,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Urology",
+      "Id": 182,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Vascular and Interventional Radiology",
+      "Id": 177,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Vascular Surgeon",
+      "Id": 238,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Vascular Surgery",
+      "Id": 179,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Vein",
+      "Id": 254,
+      "Code": "099"
+    },
+    {
+      "deleteFlag": 0,
+      "Speciality": "Wound Care",
+      "Id": 215,
+      "Code": "099"
+    }
+  ],
+  "sProviderName": "optimus,user ",
+  "itemKeysForQSDirective": {
+    "nIsLabConfigAssmtMandatory": "0"
+  },
+  "nProviderId": 44972,
+  "userProfile": {
+    "nSelectSingleAssessment": "0",
+    "nEnableLabInstruction": "0"
+  },
+  "isPAMAActionRequired": false,
+  "referralMandFields": {
+    "Assigned To": "Y",
+    "Start Date": "N",
+    "Non-Compliant Reason": "N",
+    "Procedures": "N",
+    "Specialty or Provider": "Y",
+    "Diagnosis": "Y",
+    "Reason": "Y",
+    "Referral From": "Y",
+    "To Facility Name": "N"
+  },
+  "QSFilterData": {
+    "nEncounterId": 2381041,
+    "SelectedLabCompanyId": 8,
+    "SelectedDICompanyId": 8,
+    "DefaultAssingReferralToName": "",
+    "RxDrugSearchType": "1",
+    "nInHouseLabsFilter": "1",
+    "ProcedureOrders": "1",
+    "nTrUserId": 44972,
+    "ShowDiscontinuedDrugs": "1",
+    "nInHouseDIFilter": "1",
+    "sIsFuture": "0",
+    "nSpecialityId": 0,
+    "wrapText": true,
+    "DefaultDrugDBLookUp": "262593",
+    "sQuickSearchText": "",
+    "DefaultAssingReferralToId": 0,
+    "sBillToPhyForLabs": "0",
+    "ImmInjOrders": "1",
+    "DIOrders": "1",
+    "nPatientId": 107585,
+    "sBillToPhyForFutureOrders": "1",
+    "sFutureDate": "04/16/2025",
+    "RxOrders": "1",
+    "LabOrders": "1",
+    "FavoriteOrders": "0",
+    "sBillToPhyForDI": "0"
+  },
+  "RxListType": [
+    {
+      "supplierID": 0,
+      "childnodes": "",
+      "defaultImmunization": "",
+      "gender": "",
+      "favouriteid": "N",
+      "DoseUnits": "",
+      "type": "C",
+      "PPDStatus": 0,
+      "parentId": 110,
+      "parentIdItemId": "110_320702",
+      "dose": "",
+      "name": "Custom",
+      "Export": 1,
+      "id": 320702,
+      "VISCount": 1,
+      "xmlPath": "Rx/Custom"
+    },
+    {
+      "supplierID": 0,
+      "childnodes": "",
+      "defaultImmunization": "",
+      "gender": "",
+      "favouriteid": "N",
+      "DoseUnits": "",
+      "type": "C",
+      "PPDStatus": 0,
+      "parentId": 110,
+      "parentIdItemId": "110_291669",
+      "dose": "",
+      "name": "Equip/Supplies",
+      "Export": 1,
+      "id": 291669,
+      "VISCount": 1,
+      "xmlPath": "Rx/Equip/Supplies"
+    },
+    {
+      "supplierID": 0,
+      "childnodes": "",
+      "defaultImmunization": "",
+      "gender": "",
+      "favouriteid": "N",
+      "DoseUnits": "",
+      "type": "C",
+      "PPDStatus": 0,
+      "parentId": 110,
+      "parentIdItemId": "110_262593",
+      "dose": "",
+      "name": "MedispanRx",
+      "Export": 1,
+      "id": 262593,
+      "VISCount": 1,
+      "xmlPath": ""
+    }
+  ],
+  "DICompanyList": [
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "139 st medical",
+      "faxNumber": 2122342939,
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 7
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 28,
+      "TransmitFutureOrders": 0,
+      "name": "Bendiner",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 1
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 1,
+      "name": "Bioreference",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 13
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "Bioreference Laboratories",
+      "faxNumber": "516-3740732",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 12
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 0,
+      "name": "EmpireCityLabs",
+      "faxNumber": "(718) 788-3871",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 8
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "EXACT SCIENCES LABORATORIES",
+      "faxNumber": "844-870-8875",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 22
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "Inhouse Lab",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 10
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "LENOX HILL RADIOLOGY",
+      "faxNumber": 7182288756,
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 16
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "Madison Avenue Imaging",
+      "faxNumber": 2128603531,
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 18
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "NEIGHBORHOOD RADIOLOGY",
+      "faxNumber": "718-777-0920",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 19
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 1,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "orderingProvider",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 1,
+      "name": "QuestOG_QLS",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 20
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 1,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 1,
+      "name": "Xeron",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 15
+    }
+  ],
+  "LabCompanyList": [
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "139 st medical",
+      "faxNumber": 2122342939,
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 7
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 28,
+      "TransmitFutureOrders": 0,
+      "name": "Bendiner",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 1
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 1,
+      "name": "Bioreference",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 13
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "Bioreference Laboratories",
+      "faxNumber": "516-3740732",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 12
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 0,
+      "name": "EmpireCityLabs",
+      "faxNumber": "(718) 788-3871",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 8
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "EXACT SCIENCES LABORATORIES",
+      "faxNumber": "844-870-8875",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 22
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "Inhouse Lab",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 10
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 1,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 1,
+      "OrderAssignedToID": "orderingProvider",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 1,
+      "name": "LabcorpOG",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 21
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "LENOX HILL RADIOLOGY",
+      "faxNumber": 7182288756,
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 16
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "Linda Bokar",
+      "faxNumber": "516-472-3785",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 17
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 0,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 0,
+      "LabId": 0,
+      "TransmitFutureOrders": 0,
+      "name": "NEIGHBORHOOD RADIOLOGY",
+      "faxNumber": "718-777-0920",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 0,
+      "Id": 19
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 1,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "orderingProvider",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 1,
+      "name": "QuestOG_QLS",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 20
+    },
+    {
+      "CCFeatureEnabled": 0,
+      "PSEEnabled": 1,
+      "inHouseLab": 0,
+      "AccountNoEnabled": 0,
+      "OrderAssignedToID": "",
+      "doNotTransmitOrderIfNoCollectionDate": 0,
+      "defaultTransmitMode": 1,
+      "LabId": 8,
+      "TransmitFutureOrders": 1,
+      "name": "Xeron",
+      "faxNumber": "",
+      "doNotTransmitOrderIfPtEmailIsInvalid": 0,
+      "interfaceConfigured": 2,
+      "Id": 15
+    }
+  ],
+  "DxList": {
+    "prevDx": [
+      {
+        "Specify": "",
+        "itemId": 373650,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Mixed hyperlipidemia",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "E78.2",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370156,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Type 2 diabetes mellitus with hyperglycemia",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "E11.65",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370070,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Essential (primary) hypertension",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "I10",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 379553,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Mild intermittent asthma, uncomplicated",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "J45.20",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370173,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Functional dyspepsia",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "K30",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 378012,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Mixed conductive and sensorineural hearing loss, bilateral",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "H90.6",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 372939,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Anemia, unspecified",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "D64.9",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 391657,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Hesitancy of micturition",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R39.11",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 439868,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Presence of external hearing-aid",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z97.4",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370912,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Tinea pedis",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "B35.3",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370087,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Vitamin D deficiency, unspecified",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "E55.9",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 437704,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Body mass index (BMI) 31.0-31.9, adult",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z68.31",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 438835,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Encounter for screening for malignant neoplasm of prostate",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z12.5",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370106,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Body mass index (BMI) 30.0-30.9, adult",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z68.30",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370125,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Encounter for general adult medical examination with abnormal findings",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z00.01",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370083,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Body mass index (BMI) 29.0-29.9, adult",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z68.29",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370130,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Encounter for screening for malignant neoplasm of colon",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z12.11",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370085,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Dietary counseling and surveillance",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z71.3",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 379568,
+        "onsetdate": "",
+        "overdue": 2,
+        "name": "Cough variant asthma",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "J45.991",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 445229,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Exercise counseling",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z71.82",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 799821,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Low back pain, unspecified",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "M54.50",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 391474,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Shortness of breath",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R06.02",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 799838,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Cough, unspecified",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R05.9",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 459639,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "COVID-19",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "U07.1",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 745214,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Elevation of levels of liver transaminase levels",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R74.01",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 391838,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Other fatigue",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R53.83",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 391581,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Other fecal abnormalities",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R19.5",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 391649,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Frequency of micturition",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "R35.0",
+        "Notes": "",
+        "icdversion": 10
+      },
+      {
+        "Specify": "",
+        "itemId": 370080,
+        "onsetdate": "",
+        "overdue": 0,
+        "name": "Encounter for immunization",
+        "favoriteofcuid": false,
+        "risk": "",
+        "snowMedCode": "",
+        "encdatetime": "",
+        "value": "Z23",
+        "Notes": "",
+        "icdversion": 10
+      }
+    ],
+    "Dx": [
+      {
+        "dxItemCode": "J45.20",
+        "dxItemId": 379553,
+        "dxItemName": "Mild intermittent asthma, uncomplicated"
+      },
+      {
+        "dxItemCode": "K30",
+        "dxItemId": 370173,
+        "dxItemName": "Functional dyspepsia"
+      },
+      {
+        "dxItemCode": "N/A",
+        "dxItemId": 0,
+        "dxItemName": "Other"
+      }
+    ],
+    "probListDx": [
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 370070,
+        "AddedDate": "03/08/2021",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "05/02/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Essential (primary) hypertension",
+        "specify": "",
+        "encounterid": 1603141,
+        "condition": "",
+        "itemcode": "I10",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 274374,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 370156,
+        "AddedDate": "03/08/2021",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "05/02/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Type 2 diabetes mellitus with hyperglycemia",
+        "specify": "",
+        "encounterid": 1603141,
+        "condition": "",
+        "itemcode": "E11.65",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 274375,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 379553,
+        "AddedDate": "03/08/2021",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "05/02/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Mild intermittent asthma, uncomplicated",
+        "specify": "",
+        "encounterid": 1603141,
+        "condition": "",
+        "itemcode": "J45.20",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 274376,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 370173,
+        "AddedDate": "03/08/2021",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "01/25/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Functional dyspepsia",
+        "specify": "",
+        "encounterid": 1603141,
+        "condition": "",
+        "itemcode": "K30",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 274377,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 373650,
+        "AddedDate": "03/08/2021",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "01/25/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Mixed hyperlipidemia",
+        "specify": "",
+        "encounterid": 1603141,
+        "condition": "",
+        "itemcode": "E78.2",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 274378,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 378012,
+        "AddedDate": "03/08/2021",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "01/25/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Mixed conductive and sensorineural hearing loss, bilateral",
+        "specify": "",
+        "encounterid": 1603141,
+        "condition": "",
+        "itemcode": "H90.6",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 274379,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 370912,
+        "AddedDate": "08/23/2021",
+        "overdue": 0,
+        "onsetdate": "",
+        "logdate": "01/25/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 0,
+        "wustatus": "confirmed",
+        "itemname": "Tinea pedis",
+        "specify": "left thumb",
+        "encounterid": 1669266,
+        "condition": "",
+        "itemcode": "B35.3",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 288094,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 439868,
+        "AddedDate": "08/23/2021",
+        "overdue": 0,
+        "onsetdate": "",
+        "logdate": "01/25/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 0,
+        "wustatus": "confirmed",
+        "itemname": "Presence of external hearing-aid",
+        "specify": "bilateral",
+        "encounterid": 1669266,
+        "condition": "",
+        "itemcode": "Z97.4",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 288096,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 68837,
+        "icdversion": 10,
+        "itemid": 799821,
+        "AddedDate": "09/26/2023",
+        "overdue": 0,
+        "onsetdate": "",
+        "logdate": "09/26/2023",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 19,
+        "synonymid": "",
+        "severity": 0,
+        "wustatus": "confirmed",
+        "itemname": "Low back pain, unspecified",
+        "specify": "",
+        "encounterid": 2160590,
+        "condition": "",
+        "itemcode": "M54.50",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 371337,
+        "username": "Alla, Vijaykumar",
+        "resolvedon": ""
+      },
+      {
+        "notes": "",
+        "snowMedCode": "",
+        "problemtype": "",
+        "userid": 94379,
+        "icdversion": 10,
+        "itemid": 379568,
+        "AddedDate": "01/23/2024",
+        "overdue": 2,
+        "onsetdate": "",
+        "logdate": "01/23/2024",
+        "inactiveFlag": 0,
+        "PrimServiceLoc": 24,
+        "synonymid": "",
+        "severity": 2,
+        "wustatus": "confirmed",
+        "itemname": "Cough variant asthma",
+        "specify": "",
+        "encounterid": 2161168,
+        "condition": "",
+        "itemcode": "J45.991",
+        "risk": "",
+        "hcc_com_flag": false,
+        "SlNo": 380967,
+        "username": "Abrakhaimova, Chana",
+        "resolvedon": ""
+      }
+    ]
+  },
+  "patientInfo": {
+    "reason": "",
+    "lastName": "Ahmed",
+    "LabEnabled": "",
+    "Eligibility": "",
+    "PatientNamewithsuffix": "Ahmed, Abu, Z",
+    "Sex": "M",
+    "PatientName": "Ahmed, Abu Z",
+    "suffix": "",
+    "Name": "Ahmed, Abu Z",
+    "firstName": "Abu",
+    "Vfc": "",
+    "middleInitial": "Z",
+    "Dob": "01/01/1963",
+    "Phone": "917-832-3231",
+    "Id": "107585",
+    "ControlNo": "107585",
+    "state": "NY",
+    "WebEnabled": "true",
+    "Age": "62 Y",
+    "status": "success"
+  },
+  "referralPriority": [
+    {
+      "Id": "0",
+      "Name": "Routine"
+    },
+    {
+      "Id": "1",
+      "Name": "Urgent"
+    },
+    {
+      "Id": "2",
+      "Name": "Stat"
+    }
+  ]
+}
