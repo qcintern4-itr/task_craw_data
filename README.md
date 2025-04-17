@@ -36,7 +36,7 @@ A robust tool for automating medical records data processing and web interaction
 1. Place your CSV file containing patient IDs in the project directory
 2. Run the script with optional parameters:
 ```bash
-python main.py -f input.csv -n 10 -o output.xlsx -c true --from-date 01/01/2024 --to-date 12/31/2024
+python main.py -f Registry_Report_1744325041903.csv -n 10 -o output.xlsx -c true --from-date 1/4/2025 --to-date 1/4/2025
 ```
 
 ### Command Line Arguments
@@ -58,11 +58,13 @@ python main.py -f input.csv -n 10 -o output.xlsx -c true --from-date 01/01/2024 
 
 ### Cache Configuration
 Cache files are organized in separate directories:
-cache
-├── detail_encounter_{id}      # Patient encounter data
-├── detail_log_{id}            # Encounter logs
-├── detail_lab_{id}            # Lab data
+```
+├──cache
+  ├──detail_encounter_{id}      # Patient encounter data
+  ├── detail_log_{id}            # Encounter logs
+  ├── detail_lab_{id}            # Lab data
 
+```
 
 ## Data Processing
 
