@@ -2,14 +2,15 @@
 import os
 import argparse
 from datetime import datetime
-from implement_file import read_last_values, save_to_excel
-from process import process_patient_data
+from handle_file.implement_file import read_last_values, save_to_excel
+from handle_file.process import process_patient_data
 
 class Main:
     def __init__(self, _arguments):
         self.arguments = _arguments
         # self.OUTPUT_FOLDER = f'results/output_file_{datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}'
         self.OUTPUT_FOLDER = f'results/output_file_{datetime.now().strftime("%Y-%m-%d")}'
+        self.INPUT_FOLDER = 'input'  # Thư mục chứa file input
 
     def add_to_config(self, key, value):
         """Thêm giá trị vào config dictionary.
@@ -67,10 +68,21 @@ class Main:
         # Tạo thư mục output nếu chưa tồn tại
         if not os.path.exists(self.OUTPUT_FOLDER):
             os.makedirs(self.OUTPUT_FOLDER, exist_ok=True)
+            
+        if not os.path.exists(self.INPUT_FOLDER):
+            os.makedirs(self.INPUT_FOLDER, exist_ok=True)
         
         try:
+            # Tạo đường dẫn đầy đủ cho file input
+            input_file = os.path.join(self.INPUT_FOLDER, self.arguments.file)
+            
+            # Kiểm tra file input có tồn tại không
+            if not os.path.exists(input_file):
+                print(f"\nInput file not found: {input_file}")
+                return
+            
             # Read patient IDs from CSV
-            values = read_last_values(self.arguments.file, self.arguments.number)
+            values = read_last_values(input_file, self.arguments.number)
             
             if not values:
                 print("\nNo patient IDs found in CSV file")
@@ -100,9 +112,10 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description='Medical Records Data Processing Tool')
     
     # Required arguments
-    parser.add_argument('-f', '--file', 
-                       help='Input CSV file path',
-                       required=True)
+    parser.add_argument('-f', '--file',
+                        default='Registry_Report_1744325041903.csv',
+                        help='Input CSV file path (default: Registry_Report_1744325041903.csv)',
+                        required=True)
     
     # Optional arguments
     parser.add_argument('-n', '--number', 
@@ -111,11 +124,12 @@ def parse_arguments():
                        help='Number of records to process (default: 10)')
     
     parser.add_argument('-o', '--output',
-                       default='patient_data.xlsx',
-                       help='Output Excel file name (default: patient_data.xlsx)')
+                       default='output.xlsx',
+                       help='Output Excel file name (default: output.xlsx)')
     
     parser.add_argument('-uc', '--use-cache',
                        type=lambda x: x.lower() == 'true',
+                       default=True,
                        help='Use cache if available (true/false)')
     
     parser.add_argument('--from-date',

@@ -9,13 +9,13 @@ from config import (
     API_URL_PATIENT_SEARCH, API_PARAMS_PATIENT_SEARCH, FORM_DATA_PATIENT_SEARCH,
     QuickSearchFilterObj
 )
-from cache import (
+from processing_api.cache import (
     save_xml_response_detail_encounter, save_xml_response_detail_log, 
     load_xml_response_detail_encounter, load_xml_response_detail_log, 
     save_json_response_detail_lab, load_json_response_detail_lab, 
     save_xml_response_search_patient, load_xml_response_search_patient,
 )
-from extract import (
+from processing_api.extract import (
     extract_xml_values_detail_encounter, extract_xml_values_detail_log, 
     extract_json_values_detail_lab, extract_xml_values_search_patient
     
@@ -40,7 +40,7 @@ def _handle_response(response: requests.Response, cache_func: callable,
     print(f"API returned status code: {response.status_code}")
     return None
 
-def call_api_with_patient_id(patient_id: str, use_cache: bool, from_date: str = None, to_date: str = None, acc_no: str = None) -> Optional[Dict]:
+def call_api_with_patient_id(patient_id: str = None, use_cache: bool = None, from_date: str = None, to_date: str = None, acc_no: str = None) -> Optional[Dict]:
     """Fetch patient data and related information."""
     if use_cache:
         cached_response = load_xml_response_detail_encounter(patient_id)

@@ -15,37 +15,57 @@ A robust tool for automating medical records data processing and web interaction
 
 ```
 .
-├── main.py              # Main script entry point
-├── config.py            # API and configuration settings
-├── call_api.py          # API call handling
-├── extract.py           # Data extraction utilities
-├── transform.py         # Data transformation functions
-├── cache.py            # Caching system
-├── implement_file.py    # File handling and output generation
-├── result/             # Output directory
+├── main.py                    # Main script entry point
+├── config.py                  # API and configuration settings
+├── processing_api/            # Processing crawl api 
+|   ├──call_api.py             # API call handling
+|   ├── extract.py             # Data extraction utilities
+|   ├── transform.py           # Data transformation functions
+|   └── cache.py               # Caching system
+├── handle_file/               # Processing call methods and handle file input & output
+|   ├── process.py             # API call handling
+|   └── implement_file.py      # File handling and output generation
+├── input/                     # Input directory for CSV files
+|   └── input.csv/             # Input files csv
+├── results/                   # Output directory
 │   └── output_file_YYYYMMDD/  # Output files with timestamp
-└── cache/              # Cache directories
+└── cache/                     # Cache directories
+
 ```
 
 ## Installation
 
 1. Clone the repository
+2. Create an `input` folder in the project directory
+3. Place your CSV file in the `input` folder
 
 ## Usage
 
-1. Place your CSV file containing patient IDs in the project directory
-2. Run the script with optional parameters:
+1. Prepare your input file:
+   - Create an `input` folder in the project directory
+   - Place your CSV file (e.g., `Registry_Report_1744325041903.csv`) in the `input` folder
+
+2. Run the script with parameters:
 ```bash
-python main.py -f Registry_Report_1744325041903.csv -n 10 -o output.xlsx -c true --from-date 1/4/2025 --to-date 1/4/2025
+python main.py -f Registry_Report_1744325041903.csv -n 10 -o output.xlsx -uc true --from-date 1/4/2025 --to-date 1/4/2025
 ```
 
 ### Command Line Arguments
-- `-f, --file`: Input CSV file path (required)
-- `-n, --number`: Number of records to process (optional)
-- `-o, --output`: Output Excel file name (optional)
-- `-c, --cache`: Use cached data (true/false) (optional)
-- `--from-date`: Start date for data retrieval (optional)
-- `--to-date`: End date for data retrieval (optional)
+- `-f, --file`: Input CSV file name (required)
+- `-n, --number`: Number of records to process (optional, default: 10)
+- `-o, --output`: Output Excel file name (optional, default: output.xlsx)
+- `-uc, --use-cache`: Use cached data (true/false) (optional, default: true)
+- `--from-date`: Start date in MM/DD/YYYY format (optional)
+- `--to-date`: End date in MM/DD/YYYY format (optional)
+
+### Examples
+```bash
+# Process 10 records from Registry_Report_1744325041903.csv
+python main.py -f Registry_Report_1744325041903.csv -n 10 -o output.xlsx -uc true --from-date 1/4/2025 --to-date 1/4/2025
+
+# Process all records from Registry_Report_1744325041903.csv
+python main.py -f Registry_Report_1744325041903.csv -o output.xlsx -uc true --from-date 1/4/2025 --to-date 1/4/2025
+```
 
 ## Configuration
 
@@ -63,7 +83,6 @@ Cache files are organized in separate directories:
   ├──detail_encounter_{id}      # Patient encounter data
   ├── detail_log_{id}            # Encounter logs
   ├── detail_lab_{id}            # Lab data
-
 ```
 
 ## Data Processing
@@ -86,7 +105,7 @@ Cache files are organized in separate directories:
 ## Output
 
 ### Data Files
-- Excel file: `result/output_file_YYYYMMDD/output.xlsx`
+- Excel file: `results/output_file_YYYYMMDD/output.xlsx`
 - Cache files in respective directories
 
 ## Note

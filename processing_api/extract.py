@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import json
 from typing import Dict, Optional, Union
-from transform import transform_value
+from processing_api.transform import transform_value
 from config import ENCOUNTER_FIELD_MAPPINGS
 
 def _parse_xml(xml_text: str) -> Optional[ET.Element]:

@@ -1,6 +1,6 @@
 from typing import List, Dict, Optional
 from datetime import datetime, timedelta
-from call_api import call_api_with_patient_id
+from processing_api.call_api import call_api_with_patient_id
 
 def process_patient_data(values: Dict, use_cache: bool = None, from_date: str = None, to_date: str = None) -> List[Dict]:
     """Process API calls for each patient ID and collect data."""

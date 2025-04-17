@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 from typing import List, Dict, Optional 
 from config import ENCOUNTER_FIELD_MAPPINGS
-from call_api import call_api_search_patient
+from processing_api.call_api import call_api_search_patient
 
 def read_last_values(file_path, num_values=1):
     try:
